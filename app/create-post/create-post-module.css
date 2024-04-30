@@ -1,0 +1,13 @@
+form {
+    text-align: center;
+}
+
+form > span {
+    font-weight: 200;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+
+.input-wrapper {
+    margin-top: 20px;
+}

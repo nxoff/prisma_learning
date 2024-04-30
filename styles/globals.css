@@ -1,0 +1,29 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: #121212;
+    color: white;
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.app {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+}
+
+.post-box {
+    border: 1px solid white;
+    padding: 30px;
+}
